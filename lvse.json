@@ -16,14 +16,6 @@
         "priority": 2
     },
     {
-        "id": "zuida",
-        "name": "最大资源",
-        "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 3
-    },
-    {
         "id": "baiduyun",
         "name": "百度云资源",
         "baseUrl": "https://api.apibdzy.com/api.php/provide/vod",
@@ -120,14 +112,6 @@
         "priority": 15
     },
     {
-        "id": "ikun",
-        "name": "iKun资源",
-        "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 16
-    },
-    {
         "id": "youku",
         "name": "优酷资源",
         "baseUrl": "https://api.ukuapi.com/api.php/provide/vod",
@@ -174,14 +158,6 @@
         "group": "normal",
         "enabled": true,
         "priority": 22
-    },
-    {
-        "id": "aidan",
-        "name": "爱蛋资源",
-        "baseUrl": "https://lovedan.net/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 23
     },
     {
         "id": "moduzy",
