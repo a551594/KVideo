@@ -312,14 +312,6 @@
         "priority": 42
     },
     {
-        "id": "zuidame",
-        "name": "最大点播",
-        "baseUrl": "http://zuidazy.me/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 43
-    },
-    {
         "id": "yinghua",
         "name": "樱花资源",
         "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod",
